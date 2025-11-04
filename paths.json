@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/citisignal-one-lpb/:/",
-      "/content/citisignal-one-lpb/configuration:/.helix/config.json",
-      "/content/citisignal-one-lpb/metadata:/metadata.json",
-      "/content/citisignal-one-lpb/configs:/configs.json",
-      "/content/citisignal-one-lpb/configs-stage:/configs-stage.json",
-      "/content/citisignal-one-lpb/configs-dev:/configs-dev.json",
-      "/content/citisignal-one-lpb/redirects:/redirects.json",
-      "/content/citisignal-one-lpb/placeholders:/placeholders.json",
-      "/content/citisignal-one-lpb/products/recommended-products:/products/recommended-products.json",
-      "/content/citisignal-one-lpb/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/citisignal/images/products/:/images/products/"
+      "/content/mlynch/mlynch-nine/:/",
+      "/content/mlynch/mlynch-nine/configuration:/.helix/config.json",
+      "/content/mlynch/mlynch-nine/metadata:/metadata.json",
+      "/content/mlynch/mlynch-nine/configs:/configs.json",
+      "/content/mlynch/mlynch-nine/configs-stage:/configs-stage.json",
+      "/content/mlynch/mlynch-nine/configs-dev:/configs-dev.json",
+      "/content/mlynch/mlynch-nine/redirects:/redirects.json",
+      "/content/mlynch/mlynch-nine/placeholders:/placeholders.json",
+      "/content/mlynch/mlynch-nine/products/recommended-products:/products/recommended-products.json",
+      "/content/mlynch/mlynch-nine/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/mlynch/mlynch-nine/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal-one-lpb",
+      "/content/mlynch/mlynch-nine",
       "/content/dam/citisignal/images/products/"
     ]
 }
